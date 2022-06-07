@@ -9,6 +9,7 @@
 3) <a href="https://github.com/beingvishalt/EFDatabaseFirstWithRelationalTables">EFDatabaseFirstWithRelationalTables </a>
 4) <a href="https://github.com/beingvishalt/EFDatabaseFirstCalingStoredProcedueDemo">EFDatabaseFirstCalingStoredProcedueDemo </a>
 5) <a href="https://github.com/beingvishalt/EFFluentAPIWithSeedingDataDemo">EFFluentAPIWithSeedingDataDemo </a>
+6) <a href="https://github.com/beingvishalt/EFCodeFirstOnlineMartScenario">EFCodeFirstOnlineMartScenario</a>
 
 
 ### ASP .Net MVC
@@ -16,9 +17,7 @@
 2) <a href="https://github.com/beingvishalt/MVCBindingDemo">MVCBindingDemo </a>
 3) <a href="https://github.com/beingvishalt/MVCCrudWithTemplateAndStronglyTypeView">MVCCrudWithTemplateAndStronglyTypeView</a>
 4) <a href="https://github.com/beingvishalt/MVCEFDFCrudWebsiteDemo">MVCEFDFCrudWebsiteDemo</a>
-5) <a href="https://github.com/beingvishalt/EFCodeFirstOnlineMartScenario">EFCodeFirstOnlineMartScenario</a>
 6) <a href="https://github.com/beingvishalt/MVCEFCodeFirstOnlineMartScenario">MVCEFCodeFirstOnlineMartScenario</a>
-7) 
 
 ## Stage 3
 
